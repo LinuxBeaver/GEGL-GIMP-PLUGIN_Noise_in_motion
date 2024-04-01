@@ -1,4 +1,8 @@
-# GEGL Noise in Motion plugin (wood and metal)
+# GEGL Noise in Motion plugin (wood and metal) 
+
+Download  Gimp plugin here
+https://github.com/LinuxBeaver/Noise_in_Motion_Gimp_plugin/releases
+
 ![image](https://github.com/LinuxBeaver/Noise_in_Motion_Gimp_plugin/assets/78667207/169f9ec6-9e96-4b57-94a8-7c6a3312536f)
 
 ![image](https://github.com/LinuxBeaver/Noise_in_Motion_Gimp_plugin/assets/78667207/1b46d8c8-2139-4ac6-bbb5-421b1f76d9c7)
