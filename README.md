@@ -8,7 +8,7 @@
 **Windows**
 C:\Users\USERNAME\AppData\Local\gegl-0.4\plug-ins
  
-** Linux **
+**Linux**
  /home/(USERNAME)/.local/share/gegl-0.4/plug-ins
  
  **Linux (Flatpak)**
