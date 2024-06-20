@@ -110,8 +110,8 @@ property_double (desaturate, _("Desaturate"), 1.0)
 
 property_double (edge, _("Add light around dark areas"), 0.0)
     description(_("Make a shiny outline around dark areas using edge detect"))
-    value_range (0.0, 0.100)
-    ui_range (0.0, 0.100)
+    value_range (0.0, 0.11)
+    ui_range (0.0, 0.10)
 
 #else
 
