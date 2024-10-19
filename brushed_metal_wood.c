@@ -267,6 +267,7 @@ default: motion = state->motion1;
   gegl_node_link_many (state->idref2, state->edge, state->opacity2,  NULL);
  /*connecting normal2 to opacity*/
   gegl_node_connect (state->normal2, "aux", state->opacity2, "output");
+  gegl_node_connect (state->crop, "aux", state->input, "output");
 }
 
 static void
